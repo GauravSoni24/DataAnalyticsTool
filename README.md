@@ -1,13 +1,11 @@
 # Data Analytics Tool
 
-> Provide a Create, Read, Update and Delete and Analytics.
+Tool for business to analyze existing data and which provides an anlytics to stand in market with expected insights.
 
 ---
 
 ## 📌 Overview
 
-This project implements a real-time object detection system using YOLO to
-detect and track vehicles for intelligent traffic management.
 My sister runs a small business where all sales and inventory records were maintained manually in a notebook. This manual process was time-consuming, error-prone, and made it difficult to analyze business performance.
 
 While observing this workflow, I identified an opportunity to build a software solution to simplify her data management. She wanted a system that could store, manage, and analyze sales data more efficiently.
